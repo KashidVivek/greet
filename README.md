@@ -1,3 +1,3 @@
 # greet
-Testing the project for Jenkins job
+- Testing the project for Jenkins job
 Test1
